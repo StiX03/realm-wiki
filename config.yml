@@ -1,5 +1,3 @@
-port: ${PORT}
-
 db:
   type: postgres
   url: ${DB_URL}
